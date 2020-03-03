@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0px;
+}
+
+
+#body{
+    background-color: white;   
+}
+
+#contenedor{
+    height: 800px;
+    width: 780px;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header, #banner{
+   
+}
+
+#menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0px;
+    border-radius: 20px;
+}
+
+#menu ul li{
+    float: left;
+    margin-top: 0;
+    border-radius: 20px;
+}
+
+#menu a{
+
+    color: white;
+    text-decoration: none;
+    padding: 12px 59px;
+    font-size: 18px;
+    background-color: black;
+
+}
+
+#menu{
+    background-color: black;
+   
+}
+
+#menu a:hover{
+    background-color: rgb(196, 136, 9);
+    border-radius: 10px;
+    color: black;
+
+}
+
+#banner{
+    height: 200px;
+    background: rgb(196, 136, 9);
+    border-radius: 20px;
+    margin-top:  20px;
+}
+
+#banner h2{
+
+    font-style: normal;
+    text-align: center;
+}
+
+section #arriba{
+    width: 400px;
+    height: 150px;
+    background: rgb(196, 136, 9);
+    border-radius: 20px;
+    margin-top: 32px;
+    float: left;
+}
+
+section #arriba h2{
+    text-align: center;
+}
+section #arriba h4{
+    text-align: center;
+}
+
+section #abajo{
+    width: 400px;
+    height: 150px;
+    background: rgb(196, 136, 9);
+    border-radius: 20px;
+    margin-top: 10px;
+    float: left;
+}
+section #abajo h2{
+    text-align: center;
+}
+section #abajo h4{
+    text-align: center;
+}
+
+
+#right{
+
+    height: 400px;
+    width: 400px;
+    margin-top: 250px;
+    margin-left: auto;
+    border-radius: 20px;
+    text-align: center;
+   
+}
+
+#form-register{
+
+    width: 300px;
+    height: 250px;
+    background-color: rgb(34, 32, 36);
+    padding: 30px;
+    margin-top: 250px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: 1px;
+    font-family: "calibri";
+    color: white;
+
+}
+
+#form-register h2{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+#controls{
+
+    width: 100px;
+    background-color: rgb(36, 41, 40);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    font-family: "calibri";
+    font-size: 18px;
+}
+
+#form-register p{
+
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#form-register a{
+    color: rgb(64, 65, 151);
+    text-decoration: none;
+
+}
+
+#form-register a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+#ultimo{
+    width: 780px;
+    height: 100px;
+    background: rgb(22, 22, 22);
+    margin-top: 17px;
+    border-radius: 0 0 20px 20px;
+    float: right
+}
+
+#ultimo h2{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
